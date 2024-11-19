@@ -1,0 +1,8 @@
+region = "ap-southeast-1"
+# aws_profile_name         = "subadmin"
+github_token            = "github_pat_xxxxxxxxxxxxx"
+github_repo_name        = "my-nextjs-super-app-vip-pro-123"
+github_repo_description = "Super app using NextJS and AWS"
+github_owner            = "YOUR_GITHUB_USERNAME" # WARNING: This github usernamne is case sensitive
+bucket_name             = "my-nextjs-bucket-name-workshop-001"
+iam_role_name           = "GithubActionS3CFRole"

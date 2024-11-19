@@ -3,7 +3,7 @@
 My AWS workshop #001 Deploy static site to S3 using Github Action
 
 - Folder `workshop` is for static site introduction using [HUGO](https://discourse.gohugo.io/) and AWS [FirstCloudJourney](https://cloudjourney.awsstudygroup.com/) Template
-- Visit my workshop at this [link](https://d9akteslg4v3w.cloudfront.net/001-deploy-static-site-to-s3/)
+- Visit my workshop at this [link](https://001.tsukpa.blog)
 
 You only need care about 2 folder inside **resource** folder:
 
@@ -12,6 +12,6 @@ You only need care about 2 folder inside **resource** folder:
 
 If you like this workshop, give me a star ⭐ . Thank you 🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️
 
-View all of my workshop at: [https://tsukpa.netlify.app/aws-workshops](https://tsukpa.netlify.app/aws-workshops)
+View all of my workshop at: [https://tsukpa.blog/aws-workshops](https://tsukpa.blog/aws-workshops)
 
 ![image](001-deploy-static-site-to-s3.png)

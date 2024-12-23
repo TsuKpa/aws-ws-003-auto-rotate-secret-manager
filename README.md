@@ -1,17 +1,14 @@
-# 001-deploy-static-site-to-s3
+# AWS Workshop #003 Auto Rotate Secret Manager Without Downtime
 
-My AWS workshop #001 Deploy static site to S3 using Github Action
-
-- Folder `workshop` is for static site introduction using [HUGO](https://discourse.gohugo.io/) and AWS [FirstCloudJourney](https://cloudjourney.awsstudygroup.com/) Template
-- Visit my workshop at this [link](https://001.tsukpa.blog)
+- Visit my workshop at this [link](https://003.tsukpa.blog)
 
 You only need care about 2 folder inside **resource** folder:
 
-- Folder `terraform` is the IAC code for this workshop --> Go to my [workshop link](https://001.tsukpa/blog) for documents, after that, you can create/destroy the infrastructure (Its will run automatically).
-- Folder `next-app` is for static site app will be deploy to S3, i am using this template [link](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
+- Folder `terraform` is the IAC code for this workshop --> Go to my [workshop link](https://003.tsukpa/blog) for documents, after that, you can create/destroy the infrastructure (Its will run automatically).
+- Folder `app` is for the app will be testing connection
 
 If you like this workshop, give me a star ⭐ . Thank you 🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️🙆‍♂️
 
 View all of my workshop at: [https://tsukpa.blog/aws-workshops](https://tsukpa.blog/aws-workshops)
 
-![image](001-deploy-static-site-to-s3.png)
+![image](003-auto-rotate-secret-manager.png)
